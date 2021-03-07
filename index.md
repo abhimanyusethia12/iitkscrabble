@@ -23,7 +23,7 @@ per day)
 ## Resources :paperclip:
 
 * Rules for the Scrabble League-  [here](https://docs.google.com/document/d/1hKNCfSLIXS7O-v_R064xlL_wCHoGIMung3JVVardHrk/edit?usp=sharing)
-* How to setup and use ISC (International Scrabble Club)? [here](https://docs.google.com/document/d/1_3jCq8khbeKjRJMUhNT55h3icIY2iF7LbE4wJMO8Zpg/edit) (credits to Aditya Iyengar, IITB)  
+* How to setup and use ISC (International Scrabble Club)? [here](https://docs.google.com/document/d/1LPLHTG6BIu9DHoJsEBOkqj2PxeOiJTp4Ay-pL4oeMg4/edit?usp=sharing) (credits to Aditya Iyengar, IITB)  
 * List of 2,3 and 4 letter words - [here](https://isc.ro/en/commands/lists.html)
 
 ### Contact us :telephone_receiver:
