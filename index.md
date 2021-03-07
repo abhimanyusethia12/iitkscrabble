@@ -13,17 +13,22 @@ Welcome to IITK Scrabble League 2021!
 * I do not know how to play Scrabble can I still play? Yes! Just read the rulebook and get started  
 
 
-## Schedule
+## Schedule :calendar:
 
 * Registration- 8 March- 14 March, 11:59pm
 * Fixtures Released- 15 March
 * League- 16-21 March (each player will be asked to play approximately one match per day)
 per day)
 
-## Resources 
+## Resources :paperclip:
 
 * Rules for the Scrabble League-  [here](https://docs.google.com/document/d/1hKNCfSLIXS7O-v_R064xlL_wCHoGIMung3JVVardHrk/edit?usp=sharing)
 * How to setup and use ISC (International Scrabble Club)? [here](https://docs.google.com/document/d/1_3jCq8khbeKjRJMUhNT55h3icIY2iF7LbE4wJMO8Zpg/edit) (credits to Aditya Iyengar, IITB)  
 * List of 2,3 and 4 letter words - [here](https://isc.ro/en/commands/lists.html)
 
-### Contact us
+### Contact us :telephone_receiver:
+
+* Aayush - +919065023238
+* Abhimanyu Sethia- +918989624974
+* Ananya Gupta- +917042209558
+* Keerthana M- +918105151531
