@@ -10,7 +10,7 @@ Welcome to IITK Scrabble League 2021!
 * Where? Online, on International Scrabble Club (www.isc.ro) (tutorial given in resources)
 * How to Register? Click on the link above
 * Registration Deadline? 13 March, 11:59pm
-* I do not know how to play Scrabble can I still play? Yes! Just read the rulebook and get started  
+* I do not know how to play Scrabble can I still play? Yes! Just read the rules, [this article](https://scrabble.wonderhowto.com/how-to/master-scrabble-win-every-game-0115054/) and try out a few games.   
 
 
 ## Schedule 📆
