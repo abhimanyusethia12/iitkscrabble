@@ -24,6 +24,7 @@ Welcome to IITK Scrabble League 2021!
 * Rules for the Scrabble League-  [here](https://docs.google.com/document/d/1hKNCfSLIXS7O-v_R064xlL_wCHoGIMung3JVVardHrk/edit?usp=sharing)
 * How to setup and use ISC (International Scrabble Club)? [here](https://docs.google.com/document/d/1LPLHTG6BIu9DHoJsEBOkqj2PxeOiJTp4Ay-pL4oeMg4/edit?usp=sharing) (credits to Aditya Iyengar, Literati IITB)  
 * List of 2,3 and 4 letter words - [here](https://isc.ro/en/commands/lists.html)
+* Tips on 'How to Master Scrabble?'- [here](https://scrabble.wonderhowto.com/how-to/master-scrabble-win-every-game-0115054/)
 
 ### Contact us 📞
 
