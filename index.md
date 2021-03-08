@@ -6,18 +6,18 @@ permalink: /
 
 Welcome to IITK Scrabble League 2021! 
 
-* When? 16-21 March, 2021
+* When? 15-21 March, 2021
 * Where? Online, on International Scrabble Club (www.isc.ro) (tutorial given in resources)
 * How to Register? Click on the link above
-* Registration Deadline? 14 March, 11:59pm
+* Registration Deadline? 13 March, 11:59pm
 * I do not know how to play Scrabble can I still play? Yes! Just read the rulebook and get started  
 
 
 ## Schedule 📆
 
-* Registration- 8 March- 14 March, 11:59pm
-* Fixtures Released- 15 March
-* League- 16-21 March (each player will be asked to play approximately one match per day)
+* Registration- 8 March- 13 March, 11:59pm
+* Fixtures Released- 14 March
+* League- 15-21 March (each player will be asked to play approximately one match per day)
 
 ## Resources 🔗
 
