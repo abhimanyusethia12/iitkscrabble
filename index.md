@@ -10,10 +10,11 @@ Welcome to IITK Scrabble League 2021!
 
 ## Anouncements 📢
 
+* *Rules and policies for the contest have been released.* Click on the link above to read. 
+* The fixtures will be released in a short while. Watch this space. 
 * The registration period for the IITK Scrabble League has exhausted. If you wish to participate but missed filling the form, contact one of the organisers (contact details below)
 * If you have registered, please join the Whatsapp group, whose link has been sent to you via email. If you have not received the link/do not wish to join the Whatsapp group, please contact the organisers as all future communication will happen on that group.
 * Make sure you have played at least one game, so as to be comfortable with the ISC platform, before the league starts. 
-* The rules, stucture and fixtures will be released in a short while. Watch this space. 
 
 ## Schedule 📆
 
