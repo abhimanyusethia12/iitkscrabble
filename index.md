@@ -8,13 +8,7 @@ permalink: /
 
 Welcome to IITK Scrabble League 2021! 
 
-## Anouncements 📢
-
-* **The fixtures for Day 3 have been updated.** Check fixtures link above. 
-* Contact your opponent and schedule a match anytime between 0001 to 2359 tomorrow. If your opponent doesn't respond by 1400 hours, personally contact one of the organisers. 
-* **Rules and policies for the contest have been released.** Click on the link above to read. 
-* The registration period for the IITK Scrabble League has exhausted. If you wish to participate but missed filling the form, contact one of the organisers (contact details below)
-* If you have registered, please join the Whatsapp group, whose link has been sent to you via email. If you have not received the link/do not wish to join the Whatsapp group, please contact the organisers as all future communication will happen on that group.
+We have successfully concluded the IITK Scrabble League. If you were a participant, please fill this Google form- [here](https://docs.google.com/forms/d/e/1FAIpQLSek8h0M-xPzn9D2Ie1Qze7Cri8zSP6m-Nv0yfvXR1N1RzPEcA/viewform?usp=sf_link).
 
 ## Schedule 📆
 
